@@ -1,0 +1,5 @@
+site_name: staqops User Documentation
+nav:
+  - Home: index.md
+  - Product: https://www.staqops.com
+theme: readthedocs
